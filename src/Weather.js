@@ -64,7 +64,7 @@ export default function Weather(props) {
         <div className="container created-by-container">
           <p className="created-by">
             <a
-              href="https://github.com/siviwe82/my-app"
+              href="https://github.com/siviwe82/my-app-assignemt"
               title="GitHub repository link"
               target="_blank"
               rel="noopener noreferrer"
